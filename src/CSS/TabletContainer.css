@@ -1,0 +1,6 @@
+.tablet_container {
+    margin: 2rem 0;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 80vw;
+}

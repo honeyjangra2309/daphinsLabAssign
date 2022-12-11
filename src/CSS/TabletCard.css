@@ -1,0 +1,64 @@
+
+.card_container {
+    border: 1px solid black;
+    border-bottom: none;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem;
+    font-family: "Poppins", sans-serif;
+    box-shadow: 0 20px 2px -1px #750C0C;
+}
+.card_container img {
+    width: 100%;
+    border-radius: 10px;
+}
+.tablet_name {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 1rem 0;
+    text-align: center;
+}
+.tablet_price {
+    color: #750C0C;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.tablet_price span {
+    color: #9b9b9b;
+    font-weight: 400;
+}
+.company_name {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 0;
+    font-weight: 600;
+}
+.place_container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+.place {
+    color: #9b9b9b;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
+.contact {
+    border: none;
+    background: #fff;
+    font-size: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #057F7A;
+    
+}
+.contact i {
+    font-size: 24px;
+}
